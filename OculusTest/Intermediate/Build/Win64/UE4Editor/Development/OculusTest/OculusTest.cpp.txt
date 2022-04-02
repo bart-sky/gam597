@@ -1,0 +1,2 @@
+C:\Users\Mark_School\Documents\Masters\GAM597_AdvancedVRGameDev\gam597\OculusTest\Intermediate\Build\Win64\UE4Editor\Development\OculusTest\Definitions.OculusTest.h
+C:\Users\Mark_School\Documents\Masters\GAM597_AdvancedVRGameDev\gam597\OculusTest\Source\OculusTest\OculusTest.h
